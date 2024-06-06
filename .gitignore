@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+/data/StartList.json
+/logdir/
+/data/cross_list.csv
+/data/BMPrice.csv
+/data/BM/*.json
+/ToMongo
+/testdbok
