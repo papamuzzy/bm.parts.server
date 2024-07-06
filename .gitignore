@@ -26,3 +26,4 @@ go.work
 /data/BM/*.json
 /ToMongo
 /testdbok
+.env*
